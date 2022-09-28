@@ -1,2 +1,2 @@
 # FootBall-Game
-Pong esqu game football version.
+Pong esque game football version.
